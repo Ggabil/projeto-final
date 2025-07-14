@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  #tAlunos{
+    font-size: 80px;
+  }
+  body {
+    background-color: #2d2d2d;
+    color: #ffffff;
+    font-family: 'Georgia', serif;
+    text-align: center;
+    padding: 50px 20px;
+  }
+  h1 {
+    font-size: 7rem;
+    color: #ffffff;
+    font-weight: 800;
+  }
+  .welcome {
+    margin-top: 80px;
+    font-size: 2rem;
+    color: #66c2ff;
+    font-weight: 500;
+  }
+  .nav {
+    padding: 30px;
+  }
+  .titulo{
+    color: #64BAF0;
+  }
+  .sistema{
+    color: #D9D9D9;
+  }
+  .p{
+    font-size: 30px;
+    color: #64BAF0;
+  }
+  .nav{
+    font-size: 25px;
+    color: #64BAF0;
+    text-decoration: none;
+  }
+form{
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  gap: 6px;
+  margin: 0 auto; 
+  align-items: center;
+  padding: 2px;
+  border-radius: 25px;
+  background:#D9D9D9;
+  color: #2d2d2d;
+  box-shadow: 0 0 10px #2d2d2d;
+}
+button{
+  background-color:  #64BAF0;
+  color: black;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+  #ListarA{
+   color:#D9D9D9;
+  }
+  #tAlunos{
+    color: #D9D9D9;
+}
+button{
+  background-color:  #64BAF0;
+  color: black;
+  border-radius: 8px;
+  padding: 10px;
+}
+#ConsultarA{
+  color: #D9D9D9;
+}
+#AtualizarA{
+  color: #D9D9D9;
+}
+#tSaidas{
+  color: #D9D9D9;
+  font-size: 80px;
+} 
+#CadastrarA{
+  color: #D9D9D9;
+}
+#DeletarA{
+  color: #D9D9D9;
+}
+#CadastrarS{
+  color: #D9D9D9;
+}
+#ListarS{
+  color: #D9D9D9;
+}
+#ConsultarS{
+  color: #D9D9D9;
+}
+#AtualizarS{
+  color: #D9D9D9;
+}
+#DeletarS{
+  color: #D9D9D9;
+}
+#CadastrarP{
+  color: #D9D9D9;
+}
+#ListarP{
+  color: #D9D9D9;
+}
+#ConsultarP{
+  color: #D9D9D9;
+}
+#AtualizarP{
+  color: #D9D9D9;
+}
+#DeletarP{
+  color: #D9D9D9;
+}
+td, th{
+  padding: 8px;
+  border: 3px solid black;
+}
+
+#res {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  color:   white;
+}
